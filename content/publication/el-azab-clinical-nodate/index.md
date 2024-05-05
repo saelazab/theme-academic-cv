@@ -32,7 +32,7 @@ abstract: To date, attempts to address racially discriminatory clinical algorith
 
  links: 
  - name: URL
-   url: https://journals.sagepub.com/doi/10.1177/20539517231213820#:~:text=In%20response%20to%20the%20growing,to%20ensure%20equality%20in%20outcomes.
+   url: https://journals.sagepub.com/doi/10.1177/20539517231213820
  - name: PDF
    url: 
 
