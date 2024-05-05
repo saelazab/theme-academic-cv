@@ -4,11 +4,12 @@ title: 'Clinical algorithms, racism, and “fairness” in healthcare: A case of
 authors:
 - Sarah El-Azab
 - Paige Nong
-date: -01-01
-publishDate: '2024-05-05T22:08:12.038121Z'
+date: '2023-11-15'
+publishDate: '2023-11-15'
 publication_types:
 - article-journal
-publication: '*Big Data*'
+publication: '*Big Data & Society*'
+doi: 10.1177/20539517231213820
 abstract: To date, attempts to address racially discriminatory clinical algorithms
   have largely focused on fairness and the development of models that “do no harm.”
   While the push for fairness is rooted in a desire to avoid or ameliorate health
@@ -28,4 +29,11 @@ abstract: To date, attempts to address racially discriminatory clinical algorith
   medical device regulatory frameworks, race-based medicine, and racism in data. We
   then reimagine how clinical algorithms could function as a reparative technology
   to support justice and empower patients in the healthcare system.
+
+ links: 
+ - name: URL
+   url: https://journals.sagepub.com/doi/10.1177/20539517231213820#:~:text=In%20response%20to%20the%20growing,to%20ensure%20equality%20in%20outcomes.
+ - name: PDF
+   url: 
+
 ---
