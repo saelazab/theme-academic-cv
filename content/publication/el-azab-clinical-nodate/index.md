@@ -9,8 +9,8 @@ publishDate: '2023-11-15'
 publication_types:
 - article-journal
 publication: '*Big Data & Society*'
-doi: 10.1177/20539517231213820
-abstract: To date, attempts to address racially discriminatory clinical algorithms
+doi: '10.1177/20539517231213820'
+abstract: 'To date, attempts to address racially discriminatory clinical algorithms
   have largely focused on fairness and the development of models that “do no harm.”
   While the push for fairness is rooted in a desire to avoid or ameliorate health
   disparities, it generally neglects the role of racism in shaping health outcomes
@@ -28,7 +28,7 @@ abstract: To date, attempts to address racially discriminatory clinical algorith
   algorithms by describing structural constraints on health equity efforts such as
   medical device regulatory frameworks, race-based medicine, and racism in data. We
   then reimagine how clinical algorithms could function as a reparative technology
-  to support justice and empower patients in the healthcare system.
+  to support justice and empower patients in the healthcare system.'
  links: 
  - name: URL
    url: https://journals.sagepub.com/doi/10.1177/20539517231213820
