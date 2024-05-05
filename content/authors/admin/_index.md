@@ -47,27 +47,6 @@ education:
       institution: University of Florida
       year: 2015
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-  #- name: Technical
-    #items:
-      #- name: Python
-        #description: ''
-        #percent: 80
-        #icon: python
-        #icon_pack: fab
-      #- name: Data Science
-        #description: ''
-        #percent: 100
-        #icon: chart-line
-        #icon_pack: fas
-      #- name: SQL
-        #description: ''
-        #percent: 40
-        #icon: database
-        #icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -88,9 +67,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Sarah_El-Azab_CV_Winter_2024.pdf
+  #- icon: cv
+    #icon_pack: ai
+    #link: uploads/Sarah_El-Azab_CV_Winter_2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
