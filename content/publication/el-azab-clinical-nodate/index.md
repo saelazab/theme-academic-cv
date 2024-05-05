@@ -29,7 +29,6 @@ abstract: To date, attempts to address racially discriminatory clinical algorith
   medical device regulatory frameworks, race-based medicine, and racism in data. We
   then reimagine how clinical algorithms could function as a reparative technology
   to support justice and empower patients in the healthcare system.
-
  links: 
  - name: URL
    url: https://journals.sagepub.com/doi/10.1177/20539517231213820
