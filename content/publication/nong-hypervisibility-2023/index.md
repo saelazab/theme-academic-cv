@@ -13,4 +13,6 @@ doi: 10.1080/15265161.2023.2207516
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2207516
+- name: PDF
+  url: static/uploads/Nong and El-Azab - 2023 - Hypervisibility, Surveillance, and Bounded Justice.pdf
 ---

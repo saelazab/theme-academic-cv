@@ -16,7 +16,6 @@ publishDate: '2024-05-05T22:08:11.995316Z'
 publication_types:
 - article-journal
 publication: '*BMC Medical Informatics and Decision Making*'
-doi: 10.1186/s12911-021-01482-1
 abstract: Background:  Many patients with atrial fibrillation (AF) remain undiagnosed
   despite availability of interventions to reduce stroke risk. Predictive models to
   date are limited by data requirements and theoretical usage. We aimed to develop
@@ -49,4 +48,8 @@ links:
 - name: URL
   url: 
     https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01482-1
+- name: PDF
+  url: 
+    static/uploads/Grout et al. - 2021 - Development, validation, and proof-of-concept impl.pdf
+    
 ---
